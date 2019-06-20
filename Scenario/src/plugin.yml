@@ -1,0 +1,11 @@
+name: Scenario
+version: 1.3
+author: CoDrake
+main: fr.cod.scenario.Main
+commands:
+  config:
+    description: configurer les scenarios
+  scenario:
+    description: liste des scenarios
+  ping:
+    description: information
